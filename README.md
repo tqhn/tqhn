@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm currently working in the construction chemicals indust
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn: tariqhassan18]([https://www.linkedin.com/in/tariqhassan18/](https://www.linkedin.com/in/tariqhassan18/))
+- 💼 [LinkedIn: tariqhassan18](https://www.linkedin.com/in/tariqhassan18/)
 - 📬 Reach out if you're exploring how quality and data can work better together
 
 ---
