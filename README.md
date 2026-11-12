@@ -2,7 +2,7 @@
 
 🎯 **Data-Inspired Problem Solver**
 
-Welcome to my GitHub! I'm currently working in the construction chemicals industry, bringing over a decade of experience in quality, research & development, root cause analysis, continuous improvement & operational excellence. Alongside my core profession, I’m actively expanding my skills in **Python**, **SQL**, **data analysis**, and **automation** to solve real-world problems more efficiently.
+Welcome to my GitHub! I'm currently working in the construction chemicals industry, bringing over a decade of experience in quality, research & development, root cause analysis, continuous improvement & operational excellence. Alongside my core profession, I’m actively expanding my skills in **Python**, **SQL**, **data science**, **AI** & **machine learning** to solve real-world problems more efficiently.
 
 ---
 
